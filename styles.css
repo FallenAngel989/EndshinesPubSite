@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+}
+ header {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 32px;
+ }
+ button {
+    background-color: blue;
+    text-align: center;
+ }
