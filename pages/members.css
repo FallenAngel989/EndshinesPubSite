@@ -7,3 +7,10 @@ header {
     background-color: black;
     color: white;
 }
+button {
+    background-color: black;
+    font-size: 32px;
+}
+a {
+    color: white;
+}

@@ -7,3 +7,15 @@ header {
     font-size: 32px;
     background-color: black;
 }
+button {
+     background-color: black;
+}
+a {
+    color: white;
+    font-size: 32px;
+}
+p {
+    font: bolder;
+    font-style: italic;
+    
+}
