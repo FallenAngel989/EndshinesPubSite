@@ -9,5 +9,6 @@ body {
  }
  button {
     background-color: blue;
-    text-align: center;
+    box-align: center;
+    font-size: 32px;
  }

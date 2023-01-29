@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+}
+header {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    background-color: black;
+}
