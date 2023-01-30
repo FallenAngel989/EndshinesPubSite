@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+header {
+    background-color: black;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+}
+button {
+    background-color: black;
+    font-size: 32px;
+}
+a {
+    color: white;
+
+}
